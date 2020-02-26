@@ -1,1 +1,68 @@
-
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffff00",
+        "marker-size": "medium",
+        "marker-symbol": "triangle",
+        "Project Name": "Daya",
+        "Site": "Kutch, Gujarat",
+        "Capacity": "500MW",
+        "Completed": "350MW",
+        "Running": "50MW",
+        "Need to start": "100MW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.4111328125,
+          23.443088931121785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffff00",
+        "marker-size": "medium",
+        "marker-symbol": "triangle-stroked",
+        "Project Name": "Rasmand",
+        "Site": "Udiapur, Rajasthan",
+        "Capacity": "500MW",
+        "Completed": "350MW",
+        "Running": "50MW",
+        "Need to start": "100MW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.8388671875,
+          23.644524198573688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8000",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "Site": "Aralvaimozhi",
+        "Location": "Kanyakumari, Tamil Nadu",
+        "Capacity": "2000MW",
+        "Completed": "2000MW",
+        "Running ": "2000MW",
+        "Need to Start": "0MW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.431640625,
+          9.102096738726456
+        ]
+      }
+    }
+  ]
+}
